@@ -2,8 +2,4 @@
 /target/
 .settings
 .classpath
-<<<<<<< HEAD
 .project
-=======
-.project
->>>>>>> refs/remotes/origin/master
